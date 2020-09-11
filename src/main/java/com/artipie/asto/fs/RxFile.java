@@ -37,7 +37,7 @@ import java.nio.file.StandardCopyOption;
 import java.nio.file.StandardOpenOption;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import wtf.g4s8.rio.file.File;
+import org.cqfn.rio.file.File;
 
 /**
  * The reactive file allows you to perform read and write operations via {@link RxFile#flow()}

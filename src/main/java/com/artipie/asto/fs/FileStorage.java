@@ -46,7 +46,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadFactory;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
-import wtf.g4s8.rio.file.File;
+import org.cqfn.rio.file.File;
 
 /**
  * Simple storage, in files.
